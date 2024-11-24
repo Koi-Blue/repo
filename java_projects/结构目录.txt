@@ -1,4 +1,4 @@
-1. Java基础
+1. 了解Java
 HelloWorld.java
 功能：演示Java的跨平台性和基本输出功能。
 
