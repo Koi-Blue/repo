@@ -1,0 +1,55 @@
+1. Java基础
+HelloWorld.java
+功能：演示Java的跨平台性和基本输出功能。
+
+Person.java
+功能：演示Java的面向对象特性，包括类和对象的创建及使用。
+
+GCExample.java
+功能：演示Java的内存管理机制，特别是垃圾回收过程。
+
+SecurityExample.java
+功能：演示Java的安全性特性，包括类加载器和字节码验证。
+
+ThreadExample.java
+功能：演示Java的多线程支持，包括线程的创建和运行。
+
+2. 数组操作
+ArrayInitialization.java
+功能：演示Java中数组的各种初始化方式，包括静态初始化、动态初始化等。
+
+ArrayTraversal.java
+功能：使用for循环和增强型for循环遍历数组
+
+LoopControl.java
+功能：break和continue对于循环的控制
+
+3. 访问控制
+AccessModifier.java
+功能：演示Java中的访问控制，包括public、private、protected等关键字的使用。
+
+4. 构造方法
+ConstructorExample.java
+功能：无参和有参构造方法
+
+5. 继承和多态
+InheritanceExample.java
+功能：父类和子类的继承关系
+
+MethodOverrideExample.java
+功能：在子类中重写父类的方法
+
+6. 变量默认值
+VariableAssignment.java
+功能：演示Java中变量的默认值
+
+7. 接口和抽象类
+AbstractClassExample.java
+功能：抽象类和具体类的实现
+
+InterfaceExample.java
+功能：接口的实现
+
+8. 异常处理
+ExceptionHandling.java
+功能：try、catch和finally实现异常处理
